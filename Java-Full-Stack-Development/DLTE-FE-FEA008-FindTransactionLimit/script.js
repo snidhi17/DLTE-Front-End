@@ -28,6 +28,4 @@ function limit(){
             alert(amt +" credited.")//none of the debit work
         }
     }
-    //Writing logs  to the html
-        cnt += 1;
 }
